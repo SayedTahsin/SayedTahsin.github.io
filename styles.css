@@ -5,6 +5,7 @@
     padding: 50;
     border-color: gray;
     padding-bottom: 100;
+    
 }
 
 .head {
@@ -15,6 +16,11 @@
     text-align: center;
     margin-left: 120;
     margin-right: 120;
+}
+
+a {
+    color: black;
+    text-decoration: none;
 }
 
 .dp {
