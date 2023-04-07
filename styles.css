@@ -1,0 +1,46 @@
+.body {
+    border-style: solid;
+    border-width: 10;
+    margin: 0;
+    padding: 50;
+    border-color: gray;
+    padding-bottom: 100;
+}
+
+.head {
+    text-align: center;
+}
+
+.about-me {
+    text-align: center;
+    margin-left: 120;
+    margin-right: 120;
+}
+
+.dp {
+    height: 120;
+    border-radius: 50%;
+}
+
+ul {
+    list-style-type: square;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.contact {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg);
+}
