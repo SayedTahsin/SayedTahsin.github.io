@@ -5,7 +5,7 @@
     padding: 50;
     border-color: gray;
     padding-bottom: 100;
-    
+
 }
 
 .head {
@@ -14,8 +14,7 @@
 
 .about-me {
     text-align: center;
-    margin-left: 120;
-    margin-right: 120;
+    font-size: larger;
 }
 
 a {
@@ -24,7 +23,7 @@ a {
 }
 
 .dp {
-    height: 120;
+    height: 150;
     border-radius: 50%;
 }
 
@@ -36,10 +35,14 @@ ul {
 
 .title {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2;
+    word-spacing: 10;
+
 }
 
 .contact {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
 }
 
 p {
