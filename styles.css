@@ -37,7 +37,7 @@ ul {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     letter-spacing: 2;
     word-spacing: 10;
-
+    transform: scale(1.5, 1.5);
 }
 
 .contact {
