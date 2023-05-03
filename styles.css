@@ -1,13 +1,19 @@
 .body {
-    border-style: solid;
-    border-width: 5;
-    margin: 0;
-    padding: 2.5%;
-    border-color: gray;
-    padding-bottom: 50;
+    margin: 10;
+    padding: 1%;
     max-width: 100%;
     overflow-x: hidden;
+}
 
+.shadow {
+    /* position: absolute; */
+    top: 1%;
+    left: 50%;
+    /* transform: translate(-50%, -50%); */
+    margin: auto;
+    padding: 1.5%;
+    box-shadow: 0px 0px 30px 1.5px rgb(0, 4, 7);
+    border-radius: 50px;
 }
 
 .head {
