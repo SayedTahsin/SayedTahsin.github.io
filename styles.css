@@ -12,8 +12,8 @@
     /* transform: translate(-50%, -50%); */
     margin: auto;
     padding: 1.5%;
-    box-shadow: 0px 0px 30px 1.5px rgb(0, 4, 7);
-    border-radius: 50px;
+    box-shadow: 0px 0px 30px 10px rgb(0, 0, 0);
+    border-radius: 15px;
 }
 
 .head {
@@ -59,5 +59,5 @@ p {
 }
 
 body {
-    background-image: url(https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg);
+    /* background-image: url(https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg); */
 }
