@@ -6,7 +6,7 @@
     margin-left: 65px;
     margin-right: 65px;
     margin-bottom: 50px;
-    background-color: rgb(71, 112, 128);
+    background-color: rgb(59, 96, 105);
 }
 
 .shadow {
@@ -59,7 +59,7 @@ ul {
 
 .contact {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: large;
+    font-size: larger;
 }
 
 p {
