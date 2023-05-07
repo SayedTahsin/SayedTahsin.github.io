@@ -45,7 +45,6 @@ a {
 }
 
 ul {
-    list-style-type: square;
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
 }
@@ -65,8 +64,4 @@ ul {
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
-}
-
-body {
-    /* background-image: url(https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg); */
 }
