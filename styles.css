@@ -226,16 +226,72 @@ footer {
 }
 
 
-@media screen and (max-width :600px) {
+@media screen and (max-width :1200px) {
     .Name {
-        padding: 0;
-        margin: 0;
-        text-align: center;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        letter-spacing: 1;
-        word-spacing: 10;
-        color: red;
-        font-size: xx-small;
+        font-size: 10px;
     }
 
+    .dp img {
+        height: 25%;
+        width: 25%;
+    }
+
+    .contact {
+        font-size: 9px;
+
+    }
+
+    .contact img {
+        height: 4%;
+        width: 4%;
+    }
+
+    .xtra-contact {
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+
+    .about-me {
+        font-size: 12px;
+    }
+
+
+    .competitions img {
+        height: 3%;
+        width: 3%;
+    }
+
+    .competitions li {
+        font-size: 8.5px;
+    }
+
+    li {
+        font-size: 10px;
+
+    }
+
+    .online-judge img {
+        height: 10%;
+        width: 10%;
+        margin-left: 1%;
+    }
+
+    .online-jdg-card img {
+        height: 50%;
+        width: 50%;
+    }
+
+    .skills img {
+        height: 6%;
+        width: 6%;
+    }
+
+    footer {
+        font-size: small;
+    }
+
+    h2 {
+        font-size: 14px;
+        text-align: center;
+    }
 }
