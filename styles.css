@@ -227,23 +227,30 @@ footer {
 
 
 @media screen and (max-width :1200px) {
+    
+    .body-card {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
     .Name {
-        font-size: 10px;
+        font-size: 12px;
     }
 
     .dp img {
-        height: 25%;
-        width: 25%;
+        height: 20%;
+        width: 20%;
     }
 
+
     .contact {
-        font-size: 9px;
+        font-size: 12px;
 
     }
 
     .contact img {
-        height: 4%;
-        width: 4%;
+        height: 3%;
+        width: 3%;
     }
 
     .xtra-contact {
@@ -252,7 +259,7 @@ footer {
     }
 
     .about-me {
-        font-size: 12px;
+        font-size: 10px;
     }
 
 
@@ -261,12 +268,8 @@ footer {
         width: 3%;
     }
 
-    .competitions li {
-        font-size: 8.5px;
-    }
-
     li {
-        font-size: 10px;
+        font-size: 11px;
 
     }
 
@@ -291,7 +294,85 @@ footer {
     }
 
     h2 {
-        font-size: 14px;
+        font-size: 18px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width :530px) {
+    
+    .body-card {
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+    
+    .Name {
+        font-size: 5px;
+    }
+
+    .dp img {
+        height: 25%;
+        width: 25%;
+    }
+
+
+    .contact {
+        font-size: 5px;
+
+    }
+
+    .contact img {
+        height: 3%;
+        width: 3%;
+    }
+
+    .xtra-contact {
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+
+    .about-me {
+        font-size: 6px;
+    }
+
+    li {
+        font-size: 6px;
+        margin-bottom: 3%;
+
+    }
+    .competitions img {
+        height: 3%;
+        width: 3%;
+    }
+    ul{
+        margin-left: 3%;
+    }
+
+
+    .online-judge img {
+        height: 8%;
+        width: 8%;
+        margin: 1%;
+    }
+
+    .online-jdg-card img {
+        height: 50%;
+        width: 50%;
+    }
+
+    .skills img {
+        height: 5%;
+        width: 5%;
+    }
+    .projects ul{
+        margin: 0;
+    }
+    footer {
+        font-size: small;
+    }
+
+    h2 {
+        font-size: 12px;
         text-align: center;
     }
 }
