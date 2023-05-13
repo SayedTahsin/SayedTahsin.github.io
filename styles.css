@@ -82,8 +82,7 @@ body {
     text-align: center;
     font-size: medium;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-left: 2%;
-    margin-right: 2%;
+    margin: 2.5%;
 }
 
 
@@ -95,8 +94,6 @@ body {
 .result {
     text-align: right;
 }
-
-
 
 .competitions img {
     height: 1.5%;
@@ -175,6 +172,14 @@ ul {
     max-width: 100%;
 }
 
+.two-two img {
+    flex: 1 0 20%;
+    height: 10%;
+    width: 10%;
+    object-fit: cover;
+    max-width: 100%;
+}
+
 .three img {
     flex: 1 0 35%;
     height: 10%;
@@ -226,7 +231,7 @@ footer {
 }
 
 
-@media screen and (max-width :890px) {
+@media screen and (max-width :900px) {
 
     .body-card {
         margin-left: 5%;
@@ -244,7 +249,7 @@ footer {
 
 
     .contact {
-        font-size: 12px;
+        font-size: 16px;
 
     }
 
@@ -297,6 +302,11 @@ footer {
         font-size: 18px;
         text-align: center;
     }
+
+    .profile {
+        text-align: center;
+    }
+
 }
 
 @media screen and (max-width :530px) {
@@ -306,8 +316,6 @@ footer {
         margin-right: 3%;
         box-shadow: 0px 0px 15px 2px black;
     }
-    
-
 
     .Name {
         font-size: 5px;
@@ -320,7 +328,7 @@ footer {
 
 
     .contact {
-        font-size: 5px;
+        font-size: 6px;
 
     }
 
@@ -376,6 +384,10 @@ footer {
 
     footer {
         font-size: 4px;
+    }
+
+    .profile {
+        text-align: center;
     }
 
     h2 {
