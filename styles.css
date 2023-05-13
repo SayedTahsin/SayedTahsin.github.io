@@ -226,13 +226,13 @@ footer {
 }
 
 
-@media screen and (max-width :1200px) {
-    
+@media screen and (max-width :890px) {
+
     .body-card {
         margin-left: 5%;
         margin-right: 5%;
     }
-    
+
     .Name {
         font-size: 12px;
     }
@@ -300,12 +300,12 @@ footer {
 }
 
 @media screen and (max-width :530px) {
-    
+
     .body-card {
         margin-left: 3%;
         margin-right: 3%;
     }
-    
+
     .Name {
         font-size: 5px;
     }
@@ -340,11 +340,13 @@ footer {
         margin-bottom: 3%;
 
     }
+
     .competitions img {
         height: 3%;
         width: 3%;
     }
-    ul{
+
+    ul {
         margin-left: 3%;
     }
 
@@ -364,9 +366,11 @@ footer {
         height: 5%;
         width: 5%;
     }
-    .projects ul{
+
+    .projects ul {
         margin: 0;
     }
+
     footer {
         font-size: small;
     }
