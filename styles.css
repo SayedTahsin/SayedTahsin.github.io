@@ -224,3 +224,18 @@ footer {
     margin-right: 15%;
     border-radius: 50px;
 }
+
+
+@media screen and (max-width :600px) {
+    .Name {
+        padding: 0;
+        margin: 0;
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        letter-spacing: 1;
+        word-spacing: 10;
+        color: red;
+        font-size: xx-small;
+    }
+
+}
