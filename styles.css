@@ -173,7 +173,7 @@ ul {
 }
 
 .two-two img {
-    flex: 1 0 20%;
+    flex: 1 0 50%;
     height: 10%;
     width: 10%;
     object-fit: cover;
