@@ -173,7 +173,7 @@ ul {
 }
 
 .two-two img {
-    flex: 1 0 50%;
+    flex: 1 0 20%;
     height: 10%;
     width: 10%;
     object-fit: cover;
@@ -181,7 +181,7 @@ ul {
 }
 
 .three img {
-    flex: 1 0 35%;
+    flex: 1 0 40%;
     height: 10%;
     width: 10%;
     object-fit: cover;
